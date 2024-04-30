@@ -1,6 +1,14 @@
-# examweektwo
+# Image Gallery
 
-A new Flutter project.
+Custom UI of Gallery
+
+![Uploading Screenshot_20240430_224329.png…]() ![Screenshot_20240430_224509](https://github.com/mahmudebnezaman/Image_Gallery/assets/89069368/b290683c-98fe-4761-a3d7-d461140c2851)
+
+![Uploading Screenshot_20240430_224410.png…]()
+![Uploading Screenshot_20240430_224442.png…]()
+
+
+
 
 ## Getting Started
 
